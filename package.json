@@ -1,0 +1,19 @@
+{
+  "name": "react-native-training",
+  "version": "1.0.0",
+  "description": "Training for React Native",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aDaisukeKondo/react-native-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aDaisukeKondo/react-native-training/issues"
+  },
+  "homepage": "https://github.com/aDaisukeKondo/react-native-training#readme"
+}
